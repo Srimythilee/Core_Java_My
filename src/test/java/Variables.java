@@ -46,11 +46,11 @@ class iv{
 
 // 3. Static Variable - Shared by all objects of the class, Declare using static keyword
 
-class student{
+class student34353{
 
     static int count =0;
 
-    student(){ // Constructor
+    student34353(){ // Constructor
 
         count++;
     }
@@ -67,7 +67,7 @@ class main{
         new student();
         new student();
 
-        System.out.println(student.count);
+//        System.out.println(student.count);
         
 
 

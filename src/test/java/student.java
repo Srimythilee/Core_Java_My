@@ -16,7 +16,7 @@ public class student{
 
 }
 
-class main {
+class maino {
 
     public static void main(String[] args) {
         
