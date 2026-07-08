@@ -1,0 +1,10 @@
+    // Define Constructor - A Constructor in Java is a special method that is automaticlly called when an Object is created
+    // Constructor is a special method to declare the variables
+    // Constructor method can be created using the class name
+    // Types of constructor - Default Constructor, No Argument constructor, Parameterized Constructor, copy constructor
+    // Constructor Overloading?
+    // Constructor chaining using 'this()' -- One constructor can call another constructor in the same class
+    // calling parent constructor using 'super()'
+    // copy constructor
+    // private constructor
+
