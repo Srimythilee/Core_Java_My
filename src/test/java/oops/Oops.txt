@@ -1,0 +1,10 @@
+// Class, Object, Abstraction. Encapsulation, Inheriaence, Polymorphism
+
+// Class - Blueprint of Objects, Variables,
+// Objects - Instance of a class
+// Encapsulation  - Data Hiding Using Privite members (Wraping the data and code in a single unit)
+// Inheritance - Inherit the properties of On class to Other class(Reusing the code with extends)
+
+
+// Polymorphism - One Interface many Implementation ()
+// Abstrction - Hiding the Implementation details
